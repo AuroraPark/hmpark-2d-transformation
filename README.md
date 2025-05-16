@@ -20,3 +20,9 @@ Supports moving, rotating, and adjusting the pivot point of a rectangle using UI
 - Tailwind CSS
 - shadcn/ui (component styling)
 - HTML Canvas 2D API (`setTransform`, `rotate`, etc.)
+
+## How to Run
+
+
+npm install
+npm run dev
